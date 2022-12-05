@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\For C#\Testing\bin\Debug\netcoreapp3.1\Testing.exe
+C:\Users\hp\Desktop\For C#\Testing\bin\Debug\netcoreapp3.1\Testing.deps.json
+C:\Users\hp\Desktop\For C#\Testing\bin\Debug\netcoreapp3.1\Testing.runtimeconfig.json
+C:\Users\hp\Desktop\For C#\Testing\bin\Debug\netcoreapp3.1\Testing.runtimeconfig.dev.json
+C:\Users\hp\Desktop\For C#\Testing\bin\Debug\netcoreapp3.1\Testing.dll
+C:\Users\hp\Desktop\For C#\Testing\bin\Debug\netcoreapp3.1\Testing.pdb
+C:\Users\hp\Desktop\For C#\Testing\obj\Debug\netcoreapp3.1\Testing.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\For C#\Testing\obj\Debug\netcoreapp3.1\Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\For C#\Testing\obj\Debug\netcoreapp3.1\Testing.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\For C#\Testing\obj\Debug\netcoreapp3.1\Testing.AssemblyInfo.cs
+C:\Users\hp\Desktop\For C#\Testing\obj\Debug\netcoreapp3.1\Testing.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\For C#\Testing\obj\Debug\netcoreapp3.1\Testing.dll
+C:\Users\hp\Desktop\For C#\Testing\obj\Debug\netcoreapp3.1\Testing.pdb
+C:\Users\hp\Desktop\For C#\Testing\obj\Debug\netcoreapp3.1\Testing.genruntimeconfig.cache
